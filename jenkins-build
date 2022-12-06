@@ -1,0 +1,8 @@
+SNAP-REPO=skillrary-snapshot
+NEXUS-USER=admin
+NEXUS-PASS=admin
+RELEASE-REPO=skillrary-release
+CENTRAL-REPO=skillrary-central
+NEXUS-GRP-REPO=skillrary-group
+NEXUSIP= 3.80.40.166
+NEXUSSPORT=8081
