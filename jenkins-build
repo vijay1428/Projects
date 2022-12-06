@@ -6,3 +6,10 @@ CENTRAL-REPO=skillrary-central
 NEXUS-GRP-REPO=skillrary-group
 NEXUSIP=3.80.40.166
 NEXUSSPORT=8081
+
+
+
+sonar.projectKey=devops-project
+sonar.projectName=cicd
+sonar.sources=src
+sonar.java.binaries=target
