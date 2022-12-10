@@ -1,3 +1,5 @@
+#frontend
+
 FROM node
 RUN mkdir /build
 COPY app /build
